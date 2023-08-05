@@ -12,4 +12,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quocduyvu6262&show_icons=true&locale=en&layout=compact" alt="quocduyvu6262" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quocduyvu6262&" alt="quocduyvu6262" /></p>
