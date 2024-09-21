@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duy Vu</h1>
-<h3 align="center">UCSD student studying mathematics and computer science.</h3>
+<h1 align="center">Hi 👋, I'm Tony</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
