@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tony</h1>
+<h1 align="center">Hi 👋</h1>
 
 <h3 align="left">Portfolio: </h3> <a href="https://tonyvuportfolio.com" target="blank">tonyvuportfolio.com</a>
 <h3 align="left">Connect:</h3>
